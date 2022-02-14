@@ -1,8 +1,9 @@
 <?php
-$fecha = date ("d,m,Y");
-echo "la fecha de hoy es: ". $fecha;
-echo "Hola mundo";
-echo "Cruel";
-echo "Estoy trabajando con mi hermano";
-echo "Este cambio hay que bajarlo";
-echo "Esta es la linea 8";
+$nombre="Laura";
+$apellidos="Hernadez";
+$telefono="323";
+$correo="nsalzar033@misena.edu.co";
+
+$fecha= date('d/m/Y');
+echo "Hoy estamos en la fecha $fecha"; 
+$hola = "salaudo";
